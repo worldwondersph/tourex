@@ -1,0 +1,6 @@
+{
+  "defaults": {
+    "diffOnly": true,
+    "respectFiles": true
+  }
+}
